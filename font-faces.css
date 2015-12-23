@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'GE Inspira';
+  font-weight: normal;
+  font-style: normal;
+  src: '../px-typography-design/type/GEInspMd';
+}
+@font-face {
+  font-family: 'GE Inspira';
+  font-weight: normal;
+  font-style: italic;
+  src: '../px-typography-design/type/GEInspMdIt';
+}
+@font-face {
+  font-family: 'GE Inspira';
+  font-weight: normal;
+  font-style: bold;
+  src: '../px-typography-design/type/GEInspBd';
+}
+@font-face {
+  font-family: 'GE Inspira';
+  font-weight: bold;
+  font-style: italic;
+  src: '../px-typography-design/type/GEInspBI';
+}
+@font-face {
+  font-family: 'GE Inspira Sans';
+  font-weight: normal;
+  font-style: normal;
+  src: '../px-typography-design/type/GEInspiraSans-Regular-v01';
+}
+@font-face {
+  font-family: 'GE Inspira Sans';
+  font-weight: normal;
+  font-style: italic;
+  src: '../px-typography-design/type/GEInspiraSans-Italic-v01';
+}
+@font-face {
+  font-family: 'GE Inspira Sans';
+  font-weight: bold;
+  font-style: normal;
+  src: '../px-typography-design/type/GEInspiraSans-Bold-v01';
+}
+@font-face {
+  font-family: 'GE Inspira Sans';
+  font-weight: bold;
+  font-style: italic;
+  src: '../px-typography-design/type/GEInspiraSans-BoldItalic-v01';
+}
+
+@font-face {
+  font-family: 'GE Inspira Serif';
+  font-weight: normal;
+  font-style: normal;
+  src: '../px-typography-design/type/GEInspiraSerif-Regular-v01';
+}
+@font-face {
+  font-family: 'GE Inspira Serif';
+  font-weight: normal;
+  font-style: italic;
+  src: '../px-typography-design/type/GEInspiraSerif-Italic-v01';
+}
+@font-face {
+  font-family: 'GE Inspira Serif';
+  font-weight: bold;
+  font-style: normal;
+  src: '../px-typography-design/type/GEInspiraSerif-Bold-v01';
+}
+@font-face {
+  font-family: 'GE Inspira Serif';
+  font-weight: bold;
+  font-style: italic;
+  src: '../px-typography-design/type/GEInspiraSerif-BoldItalic-v01';
+}
